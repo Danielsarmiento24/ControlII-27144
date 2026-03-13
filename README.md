@@ -1,6 +1,6 @@
 # Taller 2 — Análisis y Diseño de Sistemas de Control
 
-Este taller forma parte del curso de **Control de Sistemas** y tiene como objetivo aplicar conceptos de modelado, análisis dinámico y diseño de controladores utilizando herramientas computacionales.
+Este taller forma parte del curso de **Control** y tiene como objetivo aplicar conceptos de modelado, análisis dinámico y diseño de controladores utilizando herramientas computacionales.
 
 En este taller se abordan dos problemas relacionados con el análisis de sistemas dinámicos y el diseño de controladores, utilizando **MATLAB** como herramienta principal para simulación y evaluación del desempeño del sistema.
 
